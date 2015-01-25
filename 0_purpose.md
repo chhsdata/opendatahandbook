@@ -8,10 +8,10 @@ The breadth of data and participation by departments and offices within CHHS are
 
 These four terms are highlighted because they are frequently used throughout this document. Additional terms and definitions are listed in the Glossary. 
 
-### **Data:** A value or set of values representing a specific concept or concepts. Data includes but is not limited to lists, tables, graphs, charts, and images. Data may be structured or unstructured and can be digitally transmitted or processed.
+**Data:** A value or set of values representing a specific concept or concepts. Data includes but is not limited to lists, tables, graphs, charts, and images. Data may be structured or unstructured and can be digitally transmitted or processed.
 
-### **Dataset:** An organized collection of related data records maintained on a storage device, with the collection containing data organized or formatted in a specific or prescribed way, often in tabular form. In this handbook the dataset refers to the master, primary, or original authoritative collection of the data.
+**Dataset:** An organized collection of related data records maintained on a storage device, with the collection containing data organized or formatted in a specific or prescribed way, often in tabular form. In this handbook the dataset refers to the master, primary, or original authoritative collection of the data.
 
-### **Data Table:** A data table, in this handbook, refers to a subset of the dataset which may include a selection and/or aggregation of data from the original dataset.
+**Data Table:** A data table, in this handbook, refers to a subset of the dataset which may include a selection and/or aggregation of data from the original dataset.
 
-### **Publishable State Data:** Data is Publishable State Data if it meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be releasedif it is highly restricted due to the Health Insurance Portability and Accountability Act ("HIPAA"), state or federal law (such data are defined as Level 3 later in this handbook).
+**Publishable State Data:** Data is Publishable State Data if it meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be releasedif it is highly restricted due to the Health Insurance Portability and Accountability Act ("HIPAA"), state or federal law (such data are defined as Level 3 later in this handbook).

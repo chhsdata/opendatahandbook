@@ -32,7 +32,7 @@ An organized collection of related data records maintained on a storage device, 
 
 ### Data Steward
 
-### The data steward is the person who has the greatest familiarity with and knowledge of the data table, the data it contains, and the purpose for the collection of the data. The data steward should know the accuracy and currency of the data, and be best able to supply metadata elements describing the data.
+The data steward is the person who has the greatest familiarity with and knowledge of the data table, the data it contains, and the purpose for the collection of the data. The data steward should know the accuracy and currency of the data, and be best able to supply metadata elements describing the data.
 
 ### Data Table
 
@@ -40,7 +40,7 @@ A data table, in this handbook, refers to a subset of the dataset which may incl
 
 ### Geographic Information System (GIS)
 
-### A geographic information system (GIS) is a computer system designed to capture, store, manipulate, analyze, manage, and present all types of geographical data allowing the user to question, analyze, and interpret data to understand relationships, patterns, and trends.
+A geographic information system (GIS) is a computer system designed to capture, store, manipulate, analyze, manage, and present all types of geographical data allowing the user to question, analyze, and interpret data to understand relationships, patterns, and trends.
 
 ### Information
 
@@ -60,11 +60,11 @@ To facilitate common understanding, a number of characteristics, or attributes, 
 
 ### Public Records Act (PRA) Request
 
-### The process by which the public requests state or local government records.
+The process by which the public requests state or local government records.
 
 ### Publishable State Data
 
-### A data table that meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be released if it is highly restricted due to HIPAA, state, or federal law. 
+A data table that meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be released if it is highly restricted due to HIPAA, state, or federal law. 
 
 ### RDF
 
@@ -82,18 +82,18 @@ An XML schema defines the structure of an XML document such as which data elemen
 
 A shapefile is a digital vector (non-topological) storage format for storing geometric location and associated attribute information and is widely used in GIS software. It stores map (geographic) features and attribute data as a collection of files having the same prefix and the following file extensions:
 
-- ..shp - the file that stores the feature geometry. Required. 
-- ..shx - the file that stores the index of the feature geometry. Required. 
-- ..dbf - the dBASE file that stores the attribute information of features. Required. 
-- ..sbn and .sbx - the files that store the spatial index of the features. Optional.
-- ..fbn and .fbx - the files that store the spatial index of the features for shapefiles that are read-only. Optional.
-- ..ain and .aih - the files that store the attribute index of the active fields in a table or a theme's attribute table. Optional.
-- ..prj - the file that stores the coordinate system information. Optional.
-- ..xml - metadata for using shapefiles on the Internet. Optional. 
+- .shp - the file that stores the feature geometry. Required. 
+- .shx - the file that stores the index of the feature geometry. Required. 
+- .dbf - the dBASE file that stores the attribute information of features. Required. 
+- .sbn and .sbx - the files that store the spatial index of the features. Optional.
+- .fbn and .fbx - the files that store the spatial index of the features for shapefiles that are read-only. Optional.
+- .ain and .aih - the files that store the attribute index of the active fields in a table or a theme's attribute table. Optional.
+- .prj - the file that stores the coordinate system information. Optional.
+- .xml - metadata for using shapefiles on the Internet. Optional. 
 
 Since a shapefile is non-topological it does not maintain spatial relationship information such as connectivity, adjacency, and area definition. This makes the format simpler but less capable when performing complex spatial analysis.
 
-**Small Cell Size**    
+###Small Cell Size
 
 In the context of aggregated data, an aggregate number that carries a risk of re-identification due to the collection of personally identifiable information in small geographic and/or temporal units, resulting in very low counts in health or demographic data. For example, an aggregate count of 2 preterm births among Asian mothers in a small population has effectively revealed those individuals if they are the only two Asian women in the population. There is no universal standard as to what number constitutes a small cell size.
 
