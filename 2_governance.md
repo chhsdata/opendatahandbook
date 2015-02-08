@@ -10,7 +10,7 @@ CHHS departments and offices are required to engage in an internal review proces
 
 The CHHS Open Data Portal governance model takes a multi-level approach that provides oversight in the most efficient/streamlined way possible. Figure 2 provides a graphical representation of the model.
 
-![Figure 2. Multi-level 'vertical' governance model for CHHS Agency and its departments and offices](images/figure_02.png "Figure 2. Multi-level 'vertical' governance model for CHHS Agency and its departments and offices")
+![Figure 2. Multi-level 'vertical' governance model for CHHS Agency and its departments and offices](/assets/images/figure_02.png "Figure 2. Multi-level 'vertical' governance model for CHHS Agency and its departments and offices")
 
 Figure 2. Multi-level 'vertical' governance model for CHHS Agency and its departments and offices
 

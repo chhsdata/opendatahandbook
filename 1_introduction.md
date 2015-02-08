@@ -24,7 +24,7 @@ New technologies have dramatically changed both the way government conducts busi
 
 Data discovery is an iterative and on-going process. The following outlines the approach and timeline for the implementation of the CHHS Open Data Portal. By using a phased approach, CHHS will ensure that CHHS departments and offices have the opportunity to evaluate and refine processes. The implementation strategy has three phases spanning two years. Please see Figure 1 for an overview.
 
-![Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.](images/figure_01.png "Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.")
+![Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.](/assets/images/figure_01.png "Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.")
 
 Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.
 

@@ -10,7 +10,7 @@ Publishing data on the CHHS Open Data Portal involves a collaborative multi-step
 
 CHHS departments and offices vary widely in terms of size, personnel, functions, responsibilities, mission, and data collected and maintained. As such, the identification and prioritization processes may vary across entities. These guidelines serve to provide assistance across a broad spectrum of State entities, with the stipulation that State entities look to their governing laws, rules, regulations, and policies in identifying and making available publishable state data.
 
-![Figure 3: Guidance Summary](images/figure_03.png "Figure 3: Guidance Summary")
+![Figure 3: Guidance Summary](/assets/images/figure_03.png "Figure 3: Guidance Summary")
 
 Figure 3: Guidance Summary
 
@@ -106,7 +106,7 @@ When creating a schedule for publication of a particular data table, departments
 
 In prioritizing data for release, therefore, departments and offices must account for time to: identify data, assess and validate the data (i.e., ensure consistency, timeliness, relevance, completeness, and accuracy of the data), ensure completeness of the metadata and data dictionary, prepare visualizations and talking points, and obtain all necessary approvals to publish the data (Figure 4).
 
-![Figure 4: Prioritization](images/figure_04.png "Figure 4: Prioritization")
+![Figure 4: Prioritization](/assets/images/figure_04.png "Figure 4: Prioritization")
 
 Figure 4: Prioritization
 
