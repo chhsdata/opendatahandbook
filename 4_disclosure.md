@@ -1,3 +1,9 @@
+---
+layout: page
+title: 4. Disclosure
+permalink: /disclosure/
+---
+
 ## Disclosure Considerations
 
 As departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The following guidelines regarding disclosure provide additional factors for consideration as departments begin to identify and review data tables.

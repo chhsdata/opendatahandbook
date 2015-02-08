@@ -1,3 +1,9 @@
+---
+layout: page
+title: 2. Governance
+permalink: /governance/
+---
+
 ## Governance Structure for CHHS Agency and its Departments and Offices
 
 CHHS departments and offices are required to engage in an internal review process and obtain approvals for data tables to be published on the CHHS Open Data Portal. Departments and offices are responsible for driving toward increasing data content, quality, and accuracy, as well as ensuring compliance with all security, privacy, confidentiality laws, rules, regulations, and intellectual property rights requirements. The CHHS Agency will also engage in strategic planning and approvals as needed.
@@ -16,37 +22,37 @@ The governance model, however, also includes a 'horizontal' governance structure
 
 ### Roles within the Governance Structure
 
-#### Data Coordinator – Department/Office Level 
+#### Data Coordinator – Department/Office Level
 
 Each office and department within CHHS will designate a Data Coordinator. The Data Coordinator should be an individual who:
 
 - Has authority equivalent to that of a Deputy Director or the head of a division or office within their department (e.g. Chief Information Officer, Informatics Deputy Director, etc.);
-- Can identify appropriate persons with comprehensive knowledge of data and resources in use by their centers/divisions/offices/programs; 
-- Assumes responsibility for their department's compliance with this handbook, and future directives which may be needed to support the CHHS Open Data program; 
-- Ensures that guidelines and tools, established by CHHS governance, are applied to aggregate data for public reporting that: (1) adequately minimizes risk of re-identification, and (2) produce meaningful information (that is, they enable statistically reliable calculations). 
+- Can identify appropriate persons with comprehensive knowledge of data and resources in use by their centers/divisions/offices/programs;
+- Assumes responsibility for their department's compliance with this handbook, and future directives which may be needed to support the CHHS Open Data program;
+- Ensures that guidelines and tools, established by CHHS governance, are applied to aggregate data for public reporting that: (1) adequately minimizes risk of re-identification, and (2) produce meaningful information (that is, they enable statistically reliable calculations).
 
 The Data Coordinator acts as a liaison between Information Technology staff, departmental programs and leadership, and CHHS Agency. As such, the Data Coordinator is best positioned to convey to the appropriate parties any specific needs of the Open Data Portal (such as formatting the data or defining a structure that is optimal for publication). Insofar as departments vary in terms of size, functions, and complexity, larger departments may also identify individuals within specific divisions, offices, and/or units to assist the department Data Coordinator.
 
-#### Executive Leadership – Department/Office Level 
+#### Executive Leadership – Department/Office Level
 
 The executive leadership team and their policy-making committees within CHHS Departments and Offices will be responsible for ensuring alignment of relevant Department/Office strategic goals with data publication priorities on the CHHS Open Data Portal. In addition, executive leadership will ensure their Department/Office compliance with this handbook and all approval processes set forth herein (see **Department/Office Approvals section** below).
 
-#### CHHS Governance – Open Data Workgroup 
+#### CHHS Governance – Open Data Workgroup
 
 CHHS has established a governance structure that includes an open data workgroup made up of representatives from each CHHS department or office publishing to the Open Data Portal.
 
 The Open Data Workgroup has the following responsibilities related to Open Data:
 
 - Identify and standardize the use and governance of information in support of the missions and strategies of CHHS Agency and its departments and offices
-- Develop and maintain controls on data quality, interoperability and sources to effectively manage risk 
+- Develop and maintain controls on data quality, interoperability and sources to effectively manage risk
 - Identify new kinds, types and sources of data to drive innovation throughout the organization. Define processes for the effective, integrated introduction of new data
-- Organize and lead the tactical open data governance activities at the CHHS Agency level to apply four precepts: data principles, standards, policies and guidelines 
+- Organize and lead the tactical open data governance activities at the CHHS Agency level to apply four precepts: data principles, standards, policies and guidelines
 - Evolve and institutionalize behaviors for the appropriate use of information within changing privacy needs, ethical values, societal expectations and cultural norms
-- Define, manage, and control master data and metadata management policies, controls, and standards, including reference data 
+- Define, manage, and control master data and metadata management policies, controls, and standards, including reference data
 
 #### CHHS Governance – Agency Executive Leadership
 
-The executive leadership team within CHHS Agency is responsible for ensuring alignment of relevant CHHS Agency strategic goals with data publication priorities on the CHHS Open Data Portal. In addition, executive leadership will ensure compliance with this handbook among all participating Departments and Offices and provide oversight/approvals as set forth herein (see **CHHS Agency Approvals** section below). A key position in the CHHS Executive leadership team is the CHHS Agency Information Officer who provides oversight and direction to the Open Data Workgroup and the CHHS Open Data Portal. 
+The executive leadership team within CHHS Agency is responsible for ensuring alignment of relevant CHHS Agency strategic goals with data publication priorities on the CHHS Open Data Portal. In addition, executive leadership will ensure compliance with this handbook among all participating Departments and Offices and provide oversight/approvals as set forth herein (see **CHHS Agency Approvals** section below). A key position in the CHHS Executive leadership team is the CHHS Agency Information Officer who provides oversight and direction to the Open Data Workgroup and the CHHS Open Data Portal.
 
 ### Publication of Data
 
@@ -60,22 +66,22 @@ The department or office Data Coordinator is responsible for obtaining the follo
 
 1. Data Steward: The Data Steward is the person who has the greatest familiarity with and knowledge of the data table, its contents, and the purpose for the collection of the data. The Data Steward should know the accuracy and currency of the data, and be best able to supply metadata elements describing the data. The data steward is responsible for ensuring the overall quality of the data and adherence to publication guidelines that include the creation of metadata, data dictionaries and small cell procedures.
 
-1. Deputy Director: The Data Steward involves their center/division/office leadership (i.e. Deputy Director) to validate that the center/division/office wishes to proceed with publication of the data table and assumes responsibility for the global review of the data including an evaluation of sensitivities that may be associated with it. 
+1. Deputy Director: The Data Steward involves their center/division/office leadership (i.e. Deputy Director) to validate that the center/division/office wishes to proceed with publication of the data table and assumes responsibility for the global review of the data including an evaluation of sensitivities that may be associated with it.
 
 1. Legal Counsel: Legal counsel will be in the best position to determine, when needed, whether the data table has internally been reviewed sufficiently to ensure compliance with privacy and security requirements, intellectual property rights, and Public Records Act (PRA) responsibilities. Legal counsel may recommend additional consultation with the department's chief privacy officer, chief security officer, and/or public affairs officer.
 
 1. Department/Office Director or Designee: The head of the department or office (or their designee, such as the Data Coordinator) ensures full knowledge within the State entity that the State entity is providing a data table to CHHS Open Data under full authority to do so. It also serves as the ultimate internal control to exercise authority within the State entity ensuring that proper evaluations of the data tables have been completed.
 
-#### CHHS Agency Approvals: 
+#### CHHS Agency Approvals:
 
 Data tables may fall into one of three categories as noted below:
 
-  - **Level One:** Unrestricted data tables that can be released to the public and published without restriction 
-  - **Level Two:** Data tables that have some level of restriction or sensitivity (see detail below) but currently can be made available to interested parties with a signed data use agreement 
+  - **Level One:** Unrestricted data tables that can be released to the public and published without restriction
+  - **Level Two:** Data tables that have some level of restriction or sensitivity (see detail below) but currently can be made available to interested parties with a signed data use agreement
     - Data use agreements between the participating Department and the end-user currently guide the sharing of data.
     - Data tables that have shared or complex ownership (e.g., surveys administered by a third party for the participating Department).
     - Data tables with a higher level of sensitivity defined by:
-      - Sharing the data has not been mandated by the Legislature, an auditing entity, or other entity outside the participating Department. 
+      - Sharing the data has not been mandated by the Legislature, an auditing entity, or other entity outside the participating Department.
       - The data table has implicit or direct policy implications.
       - The data table is likely to attract media attention (either positive or negative) or is subject to ongoing media interest.
       - There is legislation pending or recently passed related to the data table. A legislator has held or scheduled hearings on the content area of the data table. The data table will likely attract legislative interest.

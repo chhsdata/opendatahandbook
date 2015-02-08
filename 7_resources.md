@@ -1,3 +1,9 @@
+---
+layout: page
+title: 7. Resources
+permalink: /resources/
+---
+
 ## Open Data Resources
 
 ###Catalogs
@@ -176,5 +182,3 @@ TOXMAP is a GIS from the Division of Specialized Information Services of the US 
 
 **World Health Organization Data & Statistics** | [http://gis.emro.who.int/PublicHealthMappingGIS/](http://gis.emro.who.int/PublicHealthMappingGIS/)<br>
 The World Health Organization (WHO) maintains mortality and global health estimates and provides access to data for analysis and monitoring through a data depository, world health statistics report, country statistics, maps, and the WHO indicator registry. WHO has also created a HealthMapper application to address critical surveillance needs across infectious disease programs at national and global levels.
-
-

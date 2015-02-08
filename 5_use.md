@@ -1,3 +1,9 @@
+---
+layout: page
+title: 5. Use
+permalink: /use/
+---
+
 ## Public Use of the CHHS Open Data Portal
 
 The following section describes what the public will view and how the public will be able to use the CHHS Open Data Portal.
