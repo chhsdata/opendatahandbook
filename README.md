@@ -12,7 +12,7 @@
 
 ## Contents
 
-### [Purpose of the CHHS Open Data Handbook](0_purpose.md)
+### [Purpose of the CHHS Open Data Handbook](index.md)
 
 ### [Introduction](1_introduction.md)
 
