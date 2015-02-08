@@ -102,3 +102,9 @@ CHHS and its departments and offices will evaluate the success of the CHHS Open 
 ####3.2 Include Additional Departments | Beginning Winter 2014
 
 Based on the decisions made for the path forward, other CHHS departments and offices will participate in data sharing through the CHHS Open Data Portal.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/governance">Next &raquo;</a>
+</div>

@@ -20,3 +20,9 @@ These four terms are highlighted because they are frequently used throughout thi
 **Data Table:** A data table, in this handbook, refers to a subset of the dataset which may include a selection and/or aggregation of data from the original dataset.
 
 **Publishable State Data:** Data is Publishable State Data if it meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be releasedif it is highly restricted due to the Health Insurance Portability and Accountability Act ("HIPAA"), state or federal law (such data are defined as Level 3 later in this handbook).
+
+<!-- Pagination -->
+<div class="pagination">
+  <span class="pagination-item older">&laquo; Prev</span>
+  <a class="pagination-item newer" href="/introduction">Next &raquo;</a>
+</div>

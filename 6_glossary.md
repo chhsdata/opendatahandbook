@@ -110,3 +110,9 @@ Data that is more free-form, such as multimedia files, images, sound files, or u
 ### XML
 
 Extensible Markup Language (XML) is a flexible language for creating common information formats and sharing both the format and content of data over the Internet and elsewhere.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/use">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/resources">Next &raquo;</a>
+</div>

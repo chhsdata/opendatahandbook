@@ -177,3 +177,9 @@ Each department or office will be responsible for updates to their data tables b
 ### Narrative Content
 
 While the concept of open data is best suited to tabular and geographic data tables, we anticipate that there may be a desire to access narrative types of content. Currently, if a department or office develops extensive narrative reports about published data, then those reports should be accessed via the department's website. The department or office may choose to provide a link to the associated published data table on CHHS Open Data Portal (which departments and offices must keep current). If opportunity arises to provide narrative content on the CHHS Open Data Portal, all due consideration will be given.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/governance">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/disclosure">Next &raquo;</a>
+</div>

@@ -37,3 +37,9 @@ In some circumstances, a CHHS department or office may not possess all the neces
 **Organizational Resistance:** This could be a risk in terms of deployment costs and the time it takes to implement an open data portal. The experience of other states and several counties is that no additional human resources have been required to implement and maintain an open data portal. CHHS has chosen a vendor-based product that is anticipated to make deployment as easy as possible.
 
 **Inaccurate Data:** Despite the participating Department's best efforts, it is possible that some data will be inaccurate and analyses may turn up issues that the public was unaware of and the press covers. When any concerns about inaccurate data are brought to the attention of the participating Department, the department will look into the matter and corrections will be made as appropriate.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/guidelines">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/use">Next &raquo;</a>
+</div>
