@@ -543,3 +543,15 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* CHHS Blue */
+.theme-base-chhs .sidebar,
+.theme-base-chhs .sidebar-toggle:active,
+.theme-base-chhs #sidebar-checkbox:checked ~ .wrap .sidebar-toggle {
+  background-color: #4F6AAF;
+}
+.theme-base-chhs .container a,
+.theme-base-chhs .sidebar-toggle,
+.theme-base-chhs .related-posts li a:hover {
+  color: #4F6AAF;
+}
