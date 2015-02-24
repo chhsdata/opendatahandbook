@@ -1,16 +1,22 @@
+---
+layout: page
+title: 3. Guidelines
+permalink: /guidelines/
+---
+
 ## Publication Guidelines for CHHS Departments and Offices
 
 Publishing data on the CHHS Open Data Portal involves a collaborative multi-step process (see Figure 3: Guidance Summary). In identifying publishable state data, State entities should include analyses from their executive and program staff, data coordinators, PRA officers, data stewards, IT, public information officers, security and privacy officers, and legal counsel.
 
 CHHS departments and offices vary widely in terms of size, personnel, functions, responsibilities, mission, and data collected and maintained. As such, the identification and prioritization processes may vary across entities. These guidelines serve to provide assistance across a broad spectrum of State entities, with the stipulation that State entities look to their governing laws, rules, regulations, and policies in identifying and making available publishable state data.
 
-![Figure 3: Guidance Summary](images/figure_03.png "Figure 3: Guidance Summary")
+![Figure 3: Guidance Summary](/assets/images/figure_03.png "Figure 3: Guidance Summary")
 
 Figure 3: Guidance Summary
 
 ###1. Data Table Identification
 
-Within a CHHS Department or Office, any number of individuals can and should consider identifying data tables for which they may self-identify as stewards of that data. In addition, subject matter experts and leaders within the Department or Office may also identify data tables that could fulfill strategic needs by sharing on the CHHS Open Data Portal. After identification, all suggested data tables should be assessed and prioritized 
+Within a CHHS Department or Office, any number of individuals can and should consider identifying data tables for which they may self-identify as stewards of that data. In addition, subject matter experts and leaders within the Department or Office may also identify data tables that could fulfill strategic needs by sharing on the CHHS Open Data Portal. After identification, all suggested data tables should be assessed and prioritized
 
 ###2. Data Table Assessment/Prioritization
 
@@ -23,11 +29,11 @@ Sections A and B below are neither exhaustive nor applicable to all State entiti
 **What "high value" data are currently publicly available?**
 
 Departments and offices may already publish a considerable amount of data online; however it may not necessarily be accessible in bulk, or available through machine-readable mechanisms. Reviewing weekly, monthly, or quarterly reports which are frequently accessed by the public, or public-facing applications that allow visitors to search for records, are excellent starting points.
- 
+
 **What underlying data populate aggregate information in published reports?**
 
 Published reports are often populated with data which is compiled or aggregated from internal systems. For example, a weekly public report may indicate that a department has closed 25 projects in that week. The internal system, which has details of each case, may have additional details which can be made public.
- 
+
 **What data do State entity programs use for trending and statistical analysis?**
 
 Similar to published reports, trend and statistical analysis is often performed using data from various sources. Those sources can be reviewed for data which can be made public
@@ -35,7 +41,7 @@ Similar to published reports, trend and statistical analysis is often performed 
 **What data is the subject of frequent PRA requests? What data is the public or news media requesting?**
 
 There are multiple methods by which the public requests data from State entities. For example, some PRA requests may seek to obtain data tables or records which are to be provided in digital format. These requests (particularly repeated requests for the same data table) might be fulfilled by making the data table(s) available on the CHHS Open Data Portal.
- 
+
 **What data are our different stakeholder groups interested in?**
 
 Consider engaging with the public for feedback. Options for obtaining public feedback may include, but are not limited to leveraging existing channels for public engagement and community feedback. Connecting with citizens and developers could ensure that data releases are maximally impactful. In addition, the CHHS Open Data Portal could provide a mechanism for constituents to request data not yet published.
@@ -43,12 +49,12 @@ Consider engaging with the public for feedback. Options for obtaining public fee
 **What data are frequently accessed on the department or office's website?**
 
 Website traffic and trends analysis will determine frequently accessed data.
- 
+
 **What data have not been previously published but meet the definition of "high value"?**
 
 Publishable state data that can be used to increase the covered State entity's accountability and responsiveness, improve public knowledge of the entity and its operations, further the mission of the entity, create economic opportunity, or respond to a need or demand identified after public consultation.
 
-**Do data further the core mission or strategic direction of the department or multiple government entities?** 
+**Do data further the core mission or strategic direction of the department or multiple government entities?**
 
 Publishing aggregated data (statistics, metrics, performance indicators) as well as source data can often help a department advance its strategic mission. In addition, the CHHS Open Data Portal will serve as a conduit for efficiently sharing information with other departments.
 
@@ -64,13 +70,13 @@ There may be higher value in the department's data if synergies exist with feder
 
 Publishing such a data table publicly can be a powerful method for fostering productive civic engagement and policy debate.
 
-**Does availability of the data align with legal requirements for data publication?** 
+**Does availability of the data align with legal requirements for data publication?**
 
 There may be statutorily required reporting which can be satisfied by publishing data tables, without necessarily producing an additional extensive narrative report. If the data are collected and compiled by the department to fulfill statutory reporting requirements, then the department's governing laws have already determined that the data are of high value for that department.
 
 **Would availability of the data improve department-to-department communication?** Certain government functions may involve multiple departments requiring access to similar data. Making the data available would support administrative simplification and efficiency.
 
-**Could availability of the data create specific economic opportunity?** 
+**Could availability of the data create specific economic opportunity?**
 
 In many cases, this will be unknown to the department in advance. Some of the greatest successes of the open data movement have involved government data being commercially appropriated in useful ways, such as weather data. To the extent the department can anticipate significant commercial use of the data, the department may wish to prioritize publication of such data more highly as it creates its schedule. |
 
@@ -82,11 +88,11 @@ Software applications often leverage data from multiple sources to provide value
 
 Generally when there is demand outside normal business hours (that is known and quantifiable), such data tables should be ranked, where applicable, as high value.
 
-**Do the data have a direct impact on the public?** 
+**Do the data have a direct impact on the public?**
 
 The data are likely of higher value if it is already apparent that there is a deep impact and interest by the public (e.g., public safety inspection results).
 
-**Are the data of timely interest?** 
+**Are the data of timely interest?**
 
 Announcements of progress or success – or reactions to public criticism - can be strongly supported by publishing related data, should it exist.
 
@@ -100,7 +106,7 @@ When creating a schedule for publication of a particular data table, departments
 
 In prioritizing data for release, therefore, departments and offices must account for time to: identify data, assess and validate the data (i.e., ensure consistency, timeliness, relevance, completeness, and accuracy of the data), ensure completeness of the metadata and data dictionary, prepare visualizations and talking points, and obtain all necessary approvals to publish the data (Figure 4).
 
-![Figure 4: Prioritization](images/figure_04.png "Figure 4: Prioritization")
+![Figure 4: Prioritization](/assets/images/figure_04.png "Figure 4: Prioritization")
 
 Figure 4: Prioritization
 
@@ -122,7 +128,7 @@ The portal will support a common and fully described core metadata scheme for ea
 
 Open Data adheres to core components of the Dublin Core standard for metadata ([http://www.dublincore.org/documents/dces/](http://www.dublincore.org/documents/dces/?1385151067343)). The ability to search and find information is enhanced by the adherence to metadata standards required with each data table. Metadata includes subject categories and keywords which provide for more precise searching and document management. Adoption of the Dublin Core, together with standards for CHHS Open Data, maximizes adaptability and interoperability.
 
->The Dublin Core Metadata Initiative (DCMI) is a non-profit organization hosted at the National Library Board of Singapore. Its lists of elements, glossary, and frequently asked questions (FAQs) were last revised in 2005, but an effort to update its User Guide is being developed at the wiki page [http://wiki.dublincore.org/index.php/User_Guide](http://wiki.dublincore.org/index.php/User_Guide). CHHS Open Data uses the current set of elements, which are required to accompany each data table. 
+>The Dublin Core Metadata Initiative (DCMI) is a non-profit organization hosted at the National Library Board of Singapore. Its lists of elements, glossary, and frequently asked questions (FAQs) were last revised in 2005, but an effort to update its User Guide is being developed at the wiki page [http://wiki.dublincore.org/index.php/User_Guide](http://wiki.dublincore.org/index.php/User_Guide). CHHS Open Data uses the current set of elements, which are required to accompany each data table.
 
 #### Descriptive Information
 
@@ -171,3 +177,9 @@ Each department or office will be responsible for updates to their data tables b
 ### Narrative Content
 
 While the concept of open data is best suited to tabular and geographic data tables, we anticipate that there may be a desire to access narrative types of content. Currently, if a department or office develops extensive narrative reports about published data, then those reports should be accessed via the department's website. The department or office may choose to provide a link to the associated published data table on CHHS Open Data Portal (which departments and offices must keep current). If opportunity arises to provide narrative content on the CHHS Open Data Portal, all due consideration will be given.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/governance">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/disclosure">Next &raquo;</a>
+</div>

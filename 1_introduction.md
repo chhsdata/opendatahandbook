@@ -1,3 +1,9 @@
+---
+layout: page
+title: 1. Introduction
+permalink: /introduction/
+---
+
 ## Introduction
 
 CHHS's Open Data Portal puts tools for transparency, accountability, and innovation directly into the hands of Californians and others through a centralized, user-friendly interface. The Open Data Portal provides the user with a single point of entry to access CHHS departments' publishable data. This increased visibility provides derivative value as the public is able to analyze and utilize publicly available (publishable) government data to better understand what is happening in government on all levels – federal, state, and local. The portal and CHHS departments' data resources are being implemented using a phased approach starting with the Department of Public Health.
@@ -18,12 +24,12 @@ New technologies have dramatically changed both the way government conducts busi
 
 Data discovery is an iterative and on-going process. The following outlines the approach and timeline for the implementation of the CHHS Open Data Portal. By using a phased approach, CHHS will ensure that CHHS departments and offices have the opportunity to evaluate and refine processes. The implementation strategy has three phases spanning two years. Please see Figure 1 for an overview.
 
-![Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.](images/figure_01.png "Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.")
+![Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.](/assets/images/figure_01.png "Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.")
 
 Figure 1. CHHS Open Data Portal implementation strategy in 3 phases.
 
 ### Phase 1 :: Getting Started | April – August, 2014
-Phase 1 of implementation included preparatory activities for the first participating CHHS department (Public Health), leading to the initial public launch of the CHHS Open Data Portal on August 8th, 2014. 
+Phase 1 of implementation included preparatory activities for the first participating CHHS department (Public Health), leading to the initial public launch of the CHHS Open Data Portal on August 8th, 2014.
 
 ####1.1 Project Kick Off | April, 2014
 
@@ -32,7 +38,7 @@ Within the first participating CHHS Department, a series of internal announcemen
 **Phase 1.1 Tools:**
 
 - Kick Off Presentation
-- Internal Communication 
+- Internal Communication
 - Consultant Scope of Work
 - Consultant Presentation
 - Consultant Deliverable
@@ -96,3 +102,9 @@ CHHS and its departments and offices will evaluate the success of the CHHS Open 
 ####3.2 Include Additional Departments | Beginning Winter 2014
 
 Based on the decisions made for the path forward, other CHHS departments and offices will participate in data sharing through the CHHS Open Data Portal.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/governance">Next &raquo;</a>
+</div>

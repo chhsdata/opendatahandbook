@@ -1,6 +1,12 @@
+---
+layout: page
+title: 6. Glossary
+permalink: /glossary/
+---
+
 ## Glossary
 
-This section contains explanations of common terms referenced in this CHHS Open Data Handbook. 
+This section contains explanations of common terms referenced in this CHHS Open Data Handbook.
 
 ### API
 
@@ -64,7 +70,7 @@ The process by which the public requests state or local government records.
 
 ### Publishable State Data
 
-A data table that meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be released if it is highly restricted due to HIPAA, state, or federal law. 
+A data table that meets one of the following criteria: (1) data that are public by law such as via the Public Records Act or (2) the data are not prohibited from being released by any laws, regulations, policies, rules, rights, court order, or any other restriction. Data shall not be released if it is highly restricted due to HIPAA, state, or federal law.
 
 ### RDF
 
@@ -82,14 +88,14 @@ An XML schema defines the structure of an XML document such as which data elemen
 
 A shapefile is a digital vector (non-topological) storage format for storing geometric location and associated attribute information and is widely used in GIS software. It stores map (geographic) features and attribute data as a collection of files having the same prefix and the following file extensions:
 
-- .shp - the file that stores the feature geometry. Required. 
-- .shx - the file that stores the index of the feature geometry. Required. 
-- .dbf - the dBASE file that stores the attribute information of features. Required. 
+- .shp - the file that stores the feature geometry. Required.
+- .shx - the file that stores the index of the feature geometry. Required.
+- .dbf - the dBASE file that stores the attribute information of features. Required.
 - .sbn and .sbx - the files that store the spatial index of the features. Optional.
 - .fbn and .fbx - the files that store the spatial index of the features for shapefiles that are read-only. Optional.
 - .ain and .aih - the files that store the attribute index of the active fields in a table or a theme's attribute table. Optional.
 - .prj - the file that stores the coordinate system information. Optional.
-- .xml - metadata for using shapefiles on the Internet. Optional. 
+- .xml - metadata for using shapefiles on the Internet. Optional.
 
 Since a shapefile is non-topological it does not maintain spatial relationship information such as connectivity, adjacency, and area definition. This makes the format simpler but less capable when performing complex spatial analysis.
 
@@ -104,3 +110,9 @@ Data that is more free-form, such as multimedia files, images, sound files, or u
 ### XML
 
 Extensible Markup Language (XML) is a flexible language for creating common information formats and sharing both the format and content of data over the Internet and elsewhere.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/use">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/resources">Next &raquo;</a>
+</div>

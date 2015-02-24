@@ -1,3 +1,9 @@
+---
+layout: page
+title: 5. Use
+permalink: /use/
+---
+
 ## Public Use of the CHHS Open Data Portal
 
 The following section describes what the public will view and how the public will be able to use the CHHS Open Data Portal.
@@ -69,3 +75,9 @@ Terms of Use Documents:
 ## Use of Data to Develop Mobile Applications
 
 Developers and the public are encouraged to develop applications that utilize the data on the CHHS Open Data Portal. The state may post links to some of these on the CHHS Open Data Portal, but will not generally be able to evaluate the content, accuracy, or functionality of these mobile applications.
+
+<!-- Pagination -->
+<div class="pagination">
+  <a class="pagination-item older" href="/disclosure">&laquo; Prev</a>
+  <a class="pagination-item newer" href="/glossary">Next &raquo;</a>
+</div>
