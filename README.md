@@ -27,3 +27,7 @@
 ### [Glossary](6_glossary.md)
 
 ### [Open Data Resources](7_resources.md)
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
