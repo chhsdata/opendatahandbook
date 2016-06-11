@@ -24,5 +24,5 @@ These four terms are highlighted because they are frequently used throughout thi
 <!-- Pagination -->
 <div class="pagination">
   <span class="pagination-item older">&laquo; Prev</span>
-  <a class="pagination-item newer" href="/introduction">Next &raquo;</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/introduction">Next &raquo;</a>
 </div>
