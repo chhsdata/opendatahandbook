@@ -3,7 +3,7 @@ title:               OPEN DATA HANDBOOK
 tagline:             'California Health and Human Services Agency'
 description:         'CHHS Open Data Handbook'
 url:                 http://chhsdata.github.io/opendatahandbook
-baseurl:             'opendatahandbook'
+baseurl:             'chhsdata.github.io/opendatahandbook/'
 paginate:            5
 
 # About/contact
