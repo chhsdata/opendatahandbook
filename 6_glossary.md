@@ -99,7 +99,7 @@ A shapefile is a digital vector (non-topological) storage format for storing geo
 
 Since a shapefile is non-topological it does not maintain spatial relationship information such as connectivity, adjacency, and area definition. This makes the format simpler but less capable when performing complex spatial analysis.
 
-###Small Cell Size
+### Small Cell Size
 
 In the context of aggregated data, an aggregate number that carries a risk of re-identification due to the collection of personally identifiable information in small geographic and/or temporal units, resulting in very low counts in health or demographic data. For example, an aggregate count of 2 preterm births among Asian mothers in a small population has effectively revealed those individuals if they are the only two Asian women in the population. There is no universal standard as to what number constitutes a small cell size.
 
