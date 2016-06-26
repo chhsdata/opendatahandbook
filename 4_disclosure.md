@@ -40,6 +40,6 @@ In some circumstances, a CHHS department or office may not possess all the neces
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="/guidelines">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/use">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/guidelines">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/use">Next &raquo;</a>
 </div>
