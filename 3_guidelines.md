@@ -10,15 +10,15 @@ Publishing data on the CHHS Open Data Portal involves a collaborative multi-step
 
 CHHS departments and offices vary widely in terms of size, personnel, functions, responsibilities, mission, and data collected and maintained. As such, the identification and prioritization processes may vary across entities. These guidelines serve to provide assistance across a broad spectrum of State entities, with the stipulation that State entities look to their governing laws, rules, regulations, and policies in identifying and making available publishable state data.
 
-![Figure 3: Guidance Summary](/assets/images/figure_03.png "Figure 3: Guidance Summary")
+![Figure 3: Guidance Summary]({{ site.baseurl }}/assets/images/figure_03.png "Figure 3: Guidance Summary")
 
 Figure 3: Guidance Summary
 
-###1. Data Table Identification
+### 1. Data Table Identification
 
 Within a CHHS Department or Office, any number of individuals can and should consider identifying data tables for which they may self-identify as stewards of that data. In addition, subject matter experts and leaders within the Department or Office may also identify data tables that could fulfill strategic needs by sharing on the CHHS Open Data Portal. After identification, all suggested data tables should be assessed and prioritized
 
-###2. Data Table Assessment/Prioritization
+### 2. Data Table Assessment/Prioritization
 
 In creating a data catalog for the CHHS Open Data portal, departments should assess the suggested data tables for value, quality, completeness, and appropriateness in accordance with the definition of publishable state data. High value data are those that can be used to increase the State entity's accountability and responsiveness, improve public knowledge of the State entity and its operations, further its mission, create economic opportunity, or respond to a need or demand identified after public consultation.
 
@@ -106,7 +106,7 @@ When creating a schedule for publication of a particular data table, departments
 
 In prioritizing data for release, therefore, departments and offices must account for time to: identify data, assess and validate the data (i.e., ensure consistency, timeliness, relevance, completeness, and accuracy of the data), ensure completeness of the metadata and data dictionary, prepare visualizations and talking points, and obtain all necessary approvals to publish the data (Figure 4).
 
-![Figure 4: Prioritization](/assets/images/figure_04.png "Figure 4: Prioritization")
+![Figure 4: Prioritization]({{ site.baseurl }}/assets/images/figure_04.png "Figure 4: Prioritization")
 
 Figure 4: Prioritization
 
@@ -180,6 +180,6 @@ While the concept of open data is best suited to tabular and geographic data tab
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="/governance">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/disclosure">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/governance">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/disclosure">Next &raquo;</a>
 </div>
