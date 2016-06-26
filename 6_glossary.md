@@ -113,6 +113,6 @@ Extensible Markup Language (XML) is a flexible language for creating common info
 
 <!-- Pagination -->
 <div class="pagination">
-  <a class="pagination-item older" href="/use">&laquo; Prev</a>
-  <a class="pagination-item newer" href="/resources">Next &raquo;</a>
+  <a class="pagination-item older" href="{{ site.baseurl }}/use">&laquo; Prev</a>
+  <a class="pagination-item newer" href="{{ site.baseurl }}/resources">Next &raquo;</a>
 </div>
