@@ -2,7 +2,7 @@
 
 ### OPEN DATA HANDBOOK
 
-###### For use with the CHHS Open Data Portal
+###### For use with the [CHHS Open Data Portal](https://chhs.data.ca.gov/ "CHHS Open Data Portal")
 
 ## Contents
 
@@ -24,7 +24,7 @@
 
 ## Change Log
 
-<table style="width:75%">
+<table style="width:100%">
   <tr>
     <th>Version</th>
     <th>Date</th>
