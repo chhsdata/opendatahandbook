@@ -138,6 +138,9 @@ Tutorial given at the “WWW 2012 Conference” in Lyon, France on the 16th of A
 **Github** | [http://project-open-data.github.io/](http://project-open-data.github.io/)<br>
 Powerful collaboration, code review, and code management for open source and private projects.
 
+**CHHS Data De-Identification Guidelines** | [https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf)<br>
+Guidelines developed for use across CHHS departments and offices to assist programs in assuring adequate de-identification has been performed prior to public release of data.
+
 ### Solutions
 
 **CKAN** | [http://ckan.org/solutions/](http://ckan.org/solutions/)<br>

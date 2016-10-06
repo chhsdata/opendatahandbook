@@ -28,7 +28,7 @@ Each office and department within CHHS will designate a Data Coordinator. The Da
 
 - Has authority equivalent to that of a Deputy Director or the head of a division or office within their department (e.g. Chief Information Officer, Informatics Deputy Director, etc.);
 - Can identify appropriate persons with comprehensive knowledge of data and resources in use by their centers/divisions/offices/programs;
-- Assumes responsibility for their department's compliance with this handbook, and future directives which may be needed to support the CHHS Open Data program;
+- Assumes responsibility for their department's compliance with this handbook, the [CHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines"), and future directives which may be needed to support the CHHS Open Data program;
 - Ensures that guidelines and tools, established by CHHS governance, are applied to aggregate data for public reporting that: (1) adequately minimizes risk of re-identification, and (2) produce meaningful information (that is, they enable statistically reliable calculations).
 
 The Data Coordinator acts as a liaison between Information Technology staff, departmental programs and leadership, and CHHS Agency. As such, the Data Coordinator is best positioned to convey to the appropriate parties any specific needs of the Open Data Portal (such as formatting the data or defining a structure that is optimal for publication). Insofar as departments vary in terms of size, functions, and complexity, larger departments may also identify individuals within specific divisions, offices, and/or units to assist the department Data Coordinator.

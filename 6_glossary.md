@@ -101,7 +101,7 @@ Since a shapefile is non-topological it does not maintain spatial relationship i
 
 ### Small Cell Size
 
-In the context of aggregated data, an aggregate number that carries a risk of re-identification due to the collection of personally identifiable information in small geographic and/or temporal units, resulting in very low counts in health or demographic data. For example, an aggregate count of 2 preterm births among Asian mothers in a small population has effectively revealed those individuals if they are the only two Asian women in the population. There is no universal standard as to what number constitutes a small cell size.
+In the context of aggregated data, an aggregate number that carries a risk of re-identification due to the collection of personally identifiable information in small geographic and/or temporal units, resulting in very low counts in health or demographic data. For example, an aggregate count of 2 preterm births among Asian mothers in a small population has effectively revealed those individuals if they are the only two Asian women in the population. For a detailed discussion of small cell size and methods to address it, see the [CHHS Data De-Identification Guidelines](https://github.com/chhsdata/dataplaybook/raw/gh-pages/documents/CHHS-DDG-V1.0-092316.pdf "CHHS Data De-Identification Guidelines").
 
 ### Unstructured Data
 
