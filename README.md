@@ -1,14 +1,8 @@
-## California Health and Human Services Agency (CHHS)
+# California Health and Human Services Agency (CHHS)
 
 ### OPEN DATA HANDBOOK
 
-#### For Use with the Open Data Portal Demonstration Project
-
-##### California Health and Human Services Agency (CHHS)
-
-###### Version 3.0
-
-###### January 2015
+###### For use with the CHHS Open Data Portal
 
 ## Contents
 
@@ -28,6 +22,25 @@
 
 ### [Open Data Resources](7_resources.md)
 
+## Change Log
+
+<table style="width:75%">
+  <tr>
+    <th>Version</th>
+    <th>Date</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>1.0</td>
+    <td>January 2015</td>
+    <td>Initial release</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>October 2016</td>
+    <td>Added CHHS De-Identification Guidelines</td>
+  </tr>
+</table> 
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
