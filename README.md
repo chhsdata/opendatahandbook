@@ -24,7 +24,7 @@
 
 ## Change Log
 
-<table style="width:100%">
+<table style="width:75%">
   <tr>
     <th>Version</th>
     <th>Date</th>
@@ -40,7 +40,8 @@
     <td>October 2016</td>
     <td>Added CHHS De-Identification Guidelines</td>
   </tr>
-</table> 
+</table>
+
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
