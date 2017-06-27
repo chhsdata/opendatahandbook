@@ -61,7 +61,7 @@ All communication with the API is done through an HTTPS protocol. The portal pro
 
 #### Featured API Catalog
 
-Additionally, the CHHS Open Data Portal supports the creation of a featured API Catalog that provides custom endpoints to the developer community to dynamically query the data table based on "specified" data table elements. Just like published data tables, the featured API Catalog is categorized and tagged using the common domain and metadata schema. Additional information about the Socrata Open Data API can be found at [http://dev.socrata.com/](http://dev.socrata.com/).
+Additionally, the CHHS Open Data Portal supports the creation of a featured API Catalog that provides custom endpoints to the developer community to dynamically query the data table based on "specified" data table elements. Just like published data tables, the featured API Catalog is categorized and tagged using the common domain and metadata schema. Additional information about the [CKAN](https://ckan.org/) API can be found at [http://docs.ckan.org/en/latest/api/index.html](http://docs.ckan.org/en/latest/api/).
 
 ### Terms of Use
 
