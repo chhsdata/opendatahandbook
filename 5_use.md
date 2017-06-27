@@ -67,7 +67,7 @@ Additionally, the CHHS Open Data Portal supports the creation of a featured API 
 
 The Open Data Portal Terms of Use are subject to modification as conditions warrant. When the Terms of Use change, this will be indicated within the Terms themselves with notification of the "Last Modified Date." Therefore, users are required to review the Terms of Use each time they use the CHHS Open Data Portal for any changes since their last visit. The Terms of Use will always be available on the landing page of the CHHS Open Data Portal.
 
-- [CHHS Open Data Portal Terms of Use](https://chhs.data.ca.gov/terms)
+- [CHHS Open Data Portal Terms of Use](https://data.chhs.ca.gov/pages/terms)
 
 ## Use of Data to Develop Mobile Applications
 
