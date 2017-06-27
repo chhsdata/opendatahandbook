@@ -75,7 +75,7 @@ Nextgov is the all-day information resource for federal technology decision make
 ### Portals
 
 **By City**
-- Boston, Massachusetts - [https://data.cityofboston.gov/](https://data.cityofboston.gov/)
+- Boston, Massachusetts | [https://data.cityofboston.gov/](https://data.cityofboston.gov/)
 - Chicago, Illinois | [https://data.cityofchicago.org/](https://data.cityofchicago.org/)
 - Dallas, Texas | [https://www.dallasopendata.com/](https://www.dallasopendata.com/)
 - Lexington, Kentucky | [http://data.lexingtonky.gov/](http://data.lexingtonky.gov/)
@@ -140,6 +140,9 @@ ArcGIS Open Data allows you to leverage your investment in the ArcGIS platform. 
 
 **Junar** | [http://www.junar.com/](http://www.junar.com/)<br>
 Junar delivers all the benefits of SaaS (Software-as-a-Service) to help organizations Open Data to spur innovation. Junar makes is easy to deal with complex end-to-end Open Data projects and turns the difficult task of opening data into a secure and controlled process.
+
+**OpenGov** | [https://opengov.com/open-data](https://opengov.com/open-data)<br>
+OpenGov’s comprehensive open data and financial transparency solutions help agencies of all sizes drive accountability, make data more useful, engage the public, and unlock economic potential.
 
 **Socrata** | [http://www.socrata.com/](http://www.socrata.com/)<br>
 Socrata helps public sector organizations improve transparency, citizen service, and data-driven decision-making. Our user-friendly solutions deliver data to governments trying to reduce costs, to citizens who want to understand how their tax dollars are used, and to civic hackers dedicated to creating new apps and improving services.
