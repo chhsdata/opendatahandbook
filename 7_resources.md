@@ -145,7 +145,7 @@ Junar delivers all the benefits of SaaS (Software-as-a-Service) to help organiza
 OpenGov’s comprehensive open data and financial transparency solutions help agencies of all sizes drive accountability, make data more useful, engage the public, and unlock economic potential.
 
 **Socrata** | [http://www.socrata.com/](http://www.socrata.com/)<br>
-Socrata helps public sector organizations improve transparency, citizen service, and data-driven decision-making. Our user-friendly solutions deliver data to governments trying to reduce costs, to citizens who want to understand how their tax dollars are used, and to civic hackers dedicated to creating new apps and improving services.
+Socrata helps public sector organizations improve transparency, citizen service, and data-driven decision-making. Socrata's user-friendly solutions deliver data to governments trying to reduce costs, to citizens who want to understand how their tax dollars are used, and to civic hackers dedicated to creating new apps and improving services.
 
 ### Strategic Plan
 
