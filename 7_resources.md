@@ -42,17 +42,6 @@ A business with a social mission: to provide public, private and nonprofit human
 **Urban Strategies Council** | [http://urbanstrategies.org](http://urbanstrategies.org)<br>
 A nonprofit research and innovation organization with decades of experience of applied spatial data analysis, social & health research, as well as a national leader in developing Open Data initiatives.
 
-### Development
-
-**Los Angeles City Developers Resources** | [https://data.lacity.org/developers](https://data.lacity.org/developers)<br>
-Los Angeles developer resources page. Get started by diving into the documentation, test drive examples, or browse other open data applications.
-
-**Philadelphia Guidelines** | [https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit ](https://docs.google.com/document/d/1Kd4AOoRG8q18PVZ0JMusgKWJmgjrWvv3iTdKUjLEdT4/edit )<br>
-The Open Data Guidebook is a document designed to assist City departments (and other government entities) in identifying, reviewing, releasing and maintaining open data sets.
-
-**Socrata Developers Resources** | [http://dev.socrata.com/](http://dev.socrata.com/)<br>
-The Socrata Open Data API allows you to programmatically access a wealth of open data resources from governments, non-profits, and NGOs around the world.
-
 ### Funders
 
 **California Healthcare Foundation** | [http://www.chcf.org/](http://www.chcf.org/)<br>
@@ -86,7 +75,7 @@ Nextgov is the all-day information resource for federal technology decision make
 ### Portals
 
 **By City**
-- Boston, Massachusetts | [https://data.cityofboston.gov/](https://data.cityofboston.gov/)
+- Boston, Massachusetts - [https://data.cityofboston.gov/](https://data.cityofboston.gov/)
 - Chicago, Illinois | [https://data.cityofchicago.org/](https://data.cityofchicago.org/)
 - Dallas, Texas | [https://www.dallasopendata.com/](https://www.dallasopendata.com/)
 - Lexington, Kentucky | [http://data.lexingtonky.gov/](http://data.lexingtonky.gov/)
