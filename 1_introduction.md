@@ -6,7 +6,7 @@ permalink: /introduction/
 
 ## Introduction
 
-CHHS's Open Data Portal puts tools for transparency, accountability, and innovation directly into the hands of Californians and others through a centralized, user-friendly interface. The Open Data Portal provides the user with a single point of entry to access CHHS departments' publishable data. This increased visibility provides derivative value as the public is able to analyze and utilize publicly available (publishable) government data to better understand what is happening in government on all levels – federal, state, and local. The portal and CHHS departments' data resources are being implemented using a phased approach starting with the Department of Public Health.
+[CHHS's Open Data Portal](https://data.chhs.ca.gov/ "CHHS Open Data Portal") puts tools for transparency, accountability, and innovation directly into the hands of Californians and others through a centralized, user-friendly interface. The Open Data Portal provides the user with a single point of entry to access CHHS departments' publishable data. This increased visibility provides derivative value as the public is able to analyze and utilize publicly available (publishable) government data to better understand what is happening in government on all levels – federal, state, and local. The portal and CHHS departments' data resources are being implemented using a phased approach starting with the Department of Public Health.
 
 The concept of "Open Data" describes data that are freely available, machine-readable, and formatted according to national technical standards to facilitate visibility and re-use of published data. The CHHS' Open Data Portal was developed to catalog data and enable data to be readily discoverable. The portal offers access to standardized data that can be easily retrieved, downloaded, sorted, searched, analyzed, redistributed and re-used by individuals, business, researchers, journalists, developers, and government to process, trend, and innovate utilizing a single data table or combinations of data tables.
 
@@ -102,6 +102,10 @@ CHHS and its departments and offices will evaluate the success of the CHHS Open 
 #### 3.2 Include Additional Departments | Beginning Winter 2014
 
 Based on the decisions made for the path forward, other CHHS departments and offices will participate in data sharing through the CHHS Open Data Portal.
+
+#### 3.3 All CHHS Departments Participating | Winter 2015 and ongoing
+
+By Winter 2015, all CHHS departments were participating in open data governance and publishing open data to the portal.
 
 <!-- Pagination -->
 <div class="pagination">

@@ -89,7 +89,7 @@ Data tables may fall into one of three categories as noted below:
 
   - **Level Three:** Level three databases are highly restricted due to HIPAA, state or federal law. These data will NOT be accessible through the CHHS Open Data Portal.
 
-Based on review and comments provided by the department, Agency will determine whether the data table will be published on the Open Data Portal.
+The [CHHS Data Release Permission Decision Tree](https://github.com/chhsdata/opendatahandbook/raw/gh-pages/documents/CHHS-Open-Data-Release-Permission-Decision-Tree.pdf) can help departments and offices determine a dataset's permission level. Based on review and comments provided by the department, Agency will determine whether the data table will be published on the Open Data Portal.
 
 <!-- Pagination -->
 <div class="pagination">
